@@ -1,7 +1,7 @@
 
-#Welcome!
+# Welcome!
 
-###NOTICE
+### NOTICE
 **As of right now, this is an empty website**
 Eventually, this website will be filled with links and descriptions to my ongoing projects. It will also act as an archive for my classwork involving programming and possibly more. 
 
